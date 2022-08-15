@@ -7,9 +7,9 @@ One of the complicated tasks in medical imaging is to diagnose MRI(Magnetic Reso
 But to have access to different imaging is difficult and expensive. With the help of deep learning, we can use style transfer to generate artificial MRI images of different contrast levels from existing MRI scans. This will help to provide a better diagnosis with the help of an additional image.
 
  
-In this project, I have used CycleGAN to translate the style of one MRI image to another, which will help in a better understanding of the scanned image. Using GANs I will create T2 weighted images from T1 weighted MRI image and vice-versa.
+In this project, I have used CycleGAN to translate the style of one MRI image to another, which will help in a better understanding of the scanned image. Using GANs I have created T2 weighted images from T1 weighted MRI image and vice-versa.
 
-##### Problem statement : To build a Generative adversarial model(modified U-Net) which can generate artificial MRI images of different contrast levels from existing MRI scans.
+#### Problem statement : To build a Generative adversarial model(modified U-Net) which can generate artificial MRI images of different contrast levels from existing MRI scans.
  
 For the dataset refer to the zipped file attached (MRI+T1_T2+Dataset).
 
