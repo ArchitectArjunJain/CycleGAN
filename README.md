@@ -41,6 +41,7 @@ In the nascant stage before the model is actually trained, the network generates
 ![image](https://user-images.githubusercontent.com/108930510/184675229-95eecc60-520c-47fc-9ab1-c2d7ecef118b.png)
 
 But as the training progresses(weights are updated and model parameters are optimised), the model becomes mature in learning the underlying features. I've managed to train the model for aroung 300 epochs and I've noticed fantastic results.
+
 ![image](https://user-images.githubusercontent.com/108930510/184675596-87cb5393-3260-4a26-b0cd-ad595c0e8323.png)
 
 
